@@ -1,18 +1,18 @@
 <div align="center">
-  <img height="100" src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/topimage.jpg"  />
+  <img height="250" src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/img1.jpg"  />
 </div>
+
+###
+
+<h1 align="center">Hi  I'm Amarjeet Kumar Shah <br>MERN Stack Developer || C++ || DSA || OOPS || SQL || DBMS || Ex- Software Intern @( Motion Cut || Devtern || Main Flow || Edge Flex Technology )|| 50daysofcode || Btech'26</h1>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/amarjeetkumarshah/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
