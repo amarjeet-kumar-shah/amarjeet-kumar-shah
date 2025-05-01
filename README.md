@@ -1,123 +1,62 @@
-<div align="center">
-  <img height="250" src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/img1.jpg"  />
-</div>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">A passionate Web Developer from India 🇮🇳</h3>
 
-###
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26"/>
+  <img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6"/>
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB"/>
+</p>
 
-<h1 align="center">Hi  I'm Amarjeet Kumar Shah <br>MERN Stack Developer || C++ || DSA || OOPS || SQL || DBMS || Ex- Software Intern @( Motion Cut || Devtern || Main Flow || Edge Flex Technology )|| 50daysofcode || Btech'26</h1>
+---
 
-###
+<!-- About Me -->
+### 👨‍💻 About Me:
+- 🌱 I’m currently learning **MERN Stack**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **JavaScript, React, or Firebase**
+- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- ⚡ Fun fact: I love making websites look cool and run fast ⚡
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/amarjeetkumarshah/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:amarjeet.23072003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+---
 
-###
+<!-- Tech Stack -->
+### 🛠️ Languages & Tools:
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=amarjeet-kumar-shah.amarjeet-kumar-shah&"  />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+<!-- GitHub Stats -->
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%" />
+</p>
 
-###
+---
 
-<p align="left">🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Enthusiast ❤️<br>>👨‍💻 Love to learn new technologies and to explore new sets of areas.<br>📚 Founder Prepration Street<br>👁‍🗨 Open Source Contributor<br>👨‍🏫 Mentor on @Topmate and @Propeers<br>🚀 Passionate About Crafting Efficient Code<br>📘 I’m Currently Studying Devops<br>👯 I’m looking to collaborate on OpenSource Projects<br>📔 Live MyResume<br>🔥 My DSA and Development Skills<br>👨‍💻 Check My! CodingProfile<br>📞 Book Your 1:1 Guidacne DSA & Development & Placement & Career Guidance Topmate and ProPeers<br>⚡ For Fun Games, Rosting, Mems, HipHop<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<!-- Top Langs -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="40%">
+</p>
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+<!-- Connect -->
+### 📬 Connect with me:
 
-###
+<p align="left">
+<a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
+<a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="30" width="30" /></a>
+<a href="https://yourportfolio.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" alt="portfolio" height="30" width="30" /></a>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+---
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=amarjeet-kumar-shah&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/amarjeet-kumar-shah/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amarjeet-kumar-shah/amarjeet-kumar-shah/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amarjeet-kumar-shah/amarjeet-kumar-shah/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amarjeet-kumar-shah/amarjeet-kumar-shah/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/amarjeet-kumar-shah/count.svg?"  />
-</div>
-
-###
+<!-- Quote -->
+<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i> – Cory House</p>
