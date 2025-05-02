@@ -33,7 +33,6 @@ Beyond tech, I enjoy reading about innovation, exploring new productivity tools,
 If you’re working on something interesting or looking to collaborate on a project, feel free to reach out. I’m always open to new opportunities and exciting challenges that help me grow as a developer and as a person.
 
 
-## 🛠️ Skills & Tools
 
 ## 🛠️ Skills & Tools
 
