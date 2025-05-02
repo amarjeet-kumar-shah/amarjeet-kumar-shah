@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Amarjeet Kumar Shah]
+# 👋 Hi, I'm Amarjeet Kumar Shah
 
 Welcome to my GitHub profile!
 
