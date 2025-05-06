@@ -1,3 +1,12 @@
+## 📊 My Coding Journey
+
+![LeetCode Stats]([./leetcode-stats.png](https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/img1.jpg))
+
+> 🏆 HardWork 💪 | Consistency ✅ | Discipline 📜
+
+
+
+
 # 👋 Hi, I'm Amarjeet Kumar Shah
 
 Welcome to my GitHub profile!
