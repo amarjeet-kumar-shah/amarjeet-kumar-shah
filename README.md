@@ -1,4 +1,5 @@
 ## 📊 My Coding Journey
+![My LeetCode Stats]([https://example.com/image.png](https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/LeetCode.png))
 
 ![LeetCode Stats]([./leetcode-stats.png](https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/img1.jpg))
 
