@@ -67,6 +67,7 @@ React.js Intern · Jaipur, India · Remote
 
 - 📹 **Delivered a fully functional ticketing system with role-based access control and real-time updates**.
 
+
 ### ** Motion Cut**
 
 **Nov 2024– Feb 2025**  
@@ -77,6 +78,7 @@ React.js Intern · Jaipur, India · Remote
 - 🎥 **Collaborated with cross-functional design teams to refine specifications, improve UI/UX usability, and enhance component performance**.
 
 - 📹 ** Improved code quality and modularity through reusable components and modern frontend practices**.
+
   
 ### **Devtern**
 
