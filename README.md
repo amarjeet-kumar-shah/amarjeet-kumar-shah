@@ -93,3 +93,16 @@ React.js Intern · Jaipur, India · Remote
 
 -----
 
+## ❤️ I'm Code on (DSA)
+<p align="left">
+  <img src="https://leetcode.com/u/Amarjeet_Kumar_Shah/" alt="LeetCode" height="40"/>
+  <img src="https://www.hackerrank.com/profile/22EJCIT016" alt="Hackerrank" height="40"/>
+</p>
+
+---
+
+## 🏅 All DSA Badges @LeetCode
+
+<p align="left">
+  <img src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/500_new.gif" height="50"/>
+</p>
