@@ -162,3 +162,12 @@ React.js Intern · Jaipur, India · Remote
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarjeet-kumar-shah&layout=compact&langs_count=8&theme=dark&hide_border=true" />
 </p>
 <br clear="left" />
+
+---
+
+## 📈 GitHub Contribution Graph
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=amarjeet-kumar-shah&theme=react-dark&hide_border=true)
+
+---
+
