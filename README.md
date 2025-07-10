@@ -23,4 +23,10 @@ React.js Intern @Celebal Tech || Ex- Software Intern @( Motion Cut | Devtern | M
   <a href="mailto:amarjeetkumarshah.it26@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+    <a href="https://leetcode.com/u/Amarjeet_Kumar_Shah/" target="_blank">
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://amarjeet-kumar-shah.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
