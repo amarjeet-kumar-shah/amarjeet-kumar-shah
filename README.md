@@ -105,4 +105,26 @@ React.js Intern · Jaipur, India · Remote
 
 <p align="left">
   <img src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/500_new.gif" height="50"/>
+  <img src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/365_new.gif" height="50"/>
+  <img src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/2024-200.gif" height="50"/>
+  <img src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/25_100.gif" height="50"/>
+  <img src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/24_100-new.gif" height="50"/>
+  <img src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/25_50.gif" height="50"/>
+  <img src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/2024-50.gif" height="50"/>
+  <img src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/202505.gif" height="50"/>
+  <img src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/202504.gif" height="50"/>
+  <img src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/202503.gif" height="50"/>
+  <img src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/202502.gif" height="50"/>
+  <img src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/202501.gif" height="50"/>
+  <img src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/2024-12.gif" height="50"/>
+  <img src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/2024-11.gif" height="50"/>
+  <img src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/2024-05.gif" height="50"/>
+  <img src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/2024-04.gif" height="50"/>
+  <img src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/2024-03.gif" height="50"/>
+  <img src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/2024-02.gif" height="50"/>
+  <img src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/2024-01.gif" height="50"/>
+  <img src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/2023-12.gif" height="50"/>
+  <img src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/2023-11.gif" height="50"/>
+
+
 </p>
