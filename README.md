@@ -3,14 +3,12 @@
 
 <h1 align="center">Hi 👋 I'm Amarjeet Kumar Shah (React.js Intern at Celebal Technology)</h1>
 
----
-
 <h3 align="center">MERN STACK DEVELOPER 💯</h3>
 
 ---
 
 <p align="center">
-React Developer Intern @Celebal Tech || Ex- Software Intern @( Motion Cut || Devtern || Main Flow || Edge Flex Technology )|| 50daysofcode || Btech'26
+React.js Intern @Celebal Tech || Ex- Software Intern @( Motion Cut | Devtern | Main Flow | Edge Flex Technology ) || 50daysofcode || Btech'26 || 3.5⭐ LEETCODE || 👑 Top 5% 🌍 LEETCODE || 🚀 Building @DSAwithAmarjeetKumarShah || Problem Solving Enthusiast 🧠 || 50DaysOfCode+ on @LeetCode || 1200DaysOfCode Streak 🔥 on @LeetCode || ⭐ Problem Solving || 1300+ Problems Solved on DSA
 </p>
 
 ---
