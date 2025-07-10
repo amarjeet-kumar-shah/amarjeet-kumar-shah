@@ -59,5 +59,6 @@ React.js Intern @Celebal Tech || Ex- Software Intern @( Motion Cut | Devtern | M
 - ⚡ For Fun: **Games, Rosting, Mems, HipHop**
 
 ---
+![My leetcode Stats](assets/500_new.gif)
 
 <img align="right" src="https://raw.githubusercontent.com/your-username/your-repo/main/path-to-image.png" width="300" />
