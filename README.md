@@ -34,7 +34,7 @@ React.js Intern @Celebal Tech || Ex- Software Intern @( Motion Cut | Devtern | M
 ---
 
 ## 🔗 About Me
-<img align="right" src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/500_new.gif" width="300" />
+<img align="right" src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/500_new.gif" width="500" />
 
 - 🧠 **Hardcore DSA Enthusiast & Problem-Solving Addict**  
   Solved **5000+ problems** with **1200+ Days of Consistent Code** across all major platforms.  
@@ -60,5 +60,4 @@ React.js Intern @Celebal Tech || Ex- Software Intern @( Motion Cut | Devtern | M
 - ⚡ For Fun: **Games, Rosting, Mems, HipHop**
 
 ---
-![My leetcode Stats](assets/500_new.gif)
 
