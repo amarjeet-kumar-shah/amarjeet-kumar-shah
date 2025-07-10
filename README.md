@@ -133,25 +133,13 @@ React.js Intern · Jaipur, India · Remote
 
 ### 🛠️ Languages, Frameworks & Tools
 
-| JavaScript | TypeScript | React | Next.js | Node.js | Express.js | MongoDB | MySQL | HTML | CSS |
-|------------|------------|--------|---------|---------|------------|---------|--------|------|-----|
-| ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | ![React](https://img.shields.io/badge/-React-20232A?logo=react) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql) | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) |
+| JavaScript |  React | Next.js | Node.js | Express.js | MongoDB | MySQL | HTML | CSS |
+|------------|--------|---------|---------|------------|---------|--------|------|-----|
+| ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  | ![React](https://img.shields.io/badge/-React-20232A?logo=react) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql) | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) |
 
-| Tailwind CSS | Bootstrap | Redux | Python | Redis | C++ | Java | C | C# | .NET |
-|--------------|-----------|--------|--------|-------|-----|------|----|----|------|
-| ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap) | ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) | ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B) | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) | ![C](https://img.shields.io/badge/-C-000000?logo=c) | ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp) | ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet) |
-
-| Azure | Git | GitHub | VS Code | Figma | Jenkins | GitHub Actions | Docker | Kubernetes | Terraform |
-|-------|-----|--------|---------|-------|---------|----------------|--------|------------|-----------|
-| ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) | ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma) | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins) | ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes) | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform) |
-
-| Linux | Scikit-Learn | Scrapy | React Query | OpenAI | PyCharm | IntelliJ IDEA | GitLab Actions | GitHub Copilot | Selenium |
-|-------|--------------|--------|-------------|--------|---------|----------------|----------------|----------------|----------|
-| ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) | ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn) | ![Scrapy](https://img.shields.io/badge/-Scrapy-231F20?logo=scrapy) | ![React Query](https://img.shields.io/badge/-React_Query-FF4154?logo=react-query) | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai) | ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm) | ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellij-idea) | ![GitLab](https://img.shields.io/badge/-GitLab_Actions-FC6D26?logo=gitlab) | ![Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?logo=githubcopilot) | ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium) |
-
-| Grafana | Prometheus |
-|---------|------------|
-| ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) | ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) |
+| Tailwind CSS | Bootstrap | Redux |  C++ |  C  |
+|--------------|-----------|--------|--------|-------|
+| ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap) | ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B) | ![C](https://img.shields.io/badge/-C-000000?logo=c) |
 
 ---
 
