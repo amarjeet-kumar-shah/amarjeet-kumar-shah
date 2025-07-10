@@ -58,18 +58,36 @@ React.js Intern @Celebal Tech || Ex- Software Intern @( Motion Cut | Devtern | M
 
 ### **Celebal Technologies**
 
-**July 2024 – Present**  
-SDE - 1 · Delhi, India · Remote
+**May 2025– Jul 2025**  
+React.js Intern · Jaipur, India · Remote
 
-- 🚀 **Built and scaled the flagship "Roadmaps" feature**, delivering **100+ curated learning paths** across DSA, Development, and System Design — **used by 100K+ users**. Improved personalization and relevance, while reducing API response time from **2.1s to < 300ms**, resulting in a **7x faster experience** and **40% higher user engagement**.
+- 🚀 **Enhanced a Service Desk Web Application with secure user authentication, registration, and login features**.
 
-- 🎥 **Developed and integrated the "AskAI + Discussion Forum"**, an intelligent peer-programming assistant where users can **interact with AI** to solve DSA/Dev doubts and collaborate with others — enabling **on-demand doubt resolution** and **community learning**.
+- 🎥 ** Engineered backend infrastructure leveraging Node.js, Express.js, MySQL, and MongoDB, enhancing data retrieval speeds by 40% for efficient ticket tracking and management**.
 
-- 📹 **Engineered a Session Recording Bot** using **Python, Selenium**, and **headless Azure VMs** with deep link automation — automating session joining and recording, cutting down **100% of manual effort** and improving reliability.
+- 📹 **Delivered a fully functional ticketing system with role-based access control and real-time updates**.
 
-- ⚙️ **Optimized 150+ APIs** by implementing **advanced caching layers, async processing, and API pipelines**, reducing backend latency by **up to 70%** and improving system throughput.
+### ** Motion Cut**
 
-- 📉 **Reduced core web vitals TBT, LCP, and FCP from 4.4s to 990ms** through advanced frontend optimizations (SSR, dynamic imports, lazy-loading APIs), significantly boosting **UX for 15K+ monthly active users**.
+**Nov 2024– Feb 2025**  
+ Full Stack Web Development Intern · Jaipur, India · Remote
 
-- 🛠️ **Led the end-to-end performance overhaul** of the platform, focusing on smoother tab-switching experiences, minimal downtime, and blazing-fast navigation across the app.
+- 🚀 **Executed responsive and scalable UI components (10+) using React.js, ensuring consistency across pages**.
+
+- 🎥 **Collaborated with cross-functional design teams to refine specifications, improve UI/UX usability, and enhance component performance**.
+
+- 📹 ** Improved code quality and modularity through reusable components and modern frontend practices**.
+  
+### **Devtern**
+
+**Jun 2024– Aug 2024**  
+ Full Stack Web Development Intern · Jaipur, India · Remote
+
+- 🚀 **Planned and developed a full-stack web application enabling real-time synchronization between user and admin operations**.
+
+- 🎥 **Created and built responsive UIs with React.js, Tailwind CSS, and handled backend operations using MongoDB**.
+
+- 📹 **Delivered seamless data flow and dynamic user interaction by integrating RESTful APIs**.
+
+---
 
