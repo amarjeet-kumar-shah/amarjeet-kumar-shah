@@ -14,22 +14,13 @@ React.js Intern @Celebal Tech || Ex- Software Intern @( Motion Cut | Devtern | M
 ---
 
 <p align="center">
-  <a href="https://youtube.com/" target="_blank">
-    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/amarjeetkumarshah/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/amarjeet-kumar-shah" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://topmate.io/" target="_blank">
-    <img src="https://img.shields.io/badge/TOPMATE-00C776?style=for-the-badge&logo=&logoColor=white" />
-  </a>
-  <a href="mailto:example@example.com">
+  <a href="mailto:amarjeetkumarshah.it26@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
