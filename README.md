@@ -68,7 +68,7 @@ React.js Intern · Jaipur, India · Remote
 - 📹 **Delivered a fully functional ticketing system with role-based access control and real-time updates**.
 
 
-### ** Motion Cut**
+### **Motion Cut**
 
 **Nov 2024– Feb 2025**  
  Full Stack Web Development Intern · Jaipur, India · Remote
@@ -168,7 +168,6 @@ React.js Intern · Jaipur, India · Remote
 ## 📈 GitHub Contribution Graph
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=amarjeet-kumar-shah&theme=react-dark&hide_border=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amarjeet-kumar-shah&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
