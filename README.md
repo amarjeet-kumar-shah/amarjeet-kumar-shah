@@ -91,5 +91,5 @@ React.js Intern · Jaipur, India · Remote
 
 - 📹 **Delivered seamless data flow and dynamic user interaction by integrating RESTful APIs**.
 
----
+-----
 
