@@ -3,6 +3,8 @@
 
 <h1 align="center">Hi 👋 I'm Amarjeet Kumar Shah (React.js Intern at Celebal Technology)</h1>
 
+---
+
 <h3 align="center">MERN STACK DEVELOPER 💯</h3>
 
 ---
