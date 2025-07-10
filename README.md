@@ -56,7 +56,7 @@ React.js Intern @Celebal Tech || Ex- Software Intern @( Motion Cut | Devtern | M
 
 ## 📄 Resume
 
-[![View Resume](https://img.shields.io/badge/📄%20VIEW%20RESUME-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1WBo8LmW0ahI8V6H2O2bjhs6prkAXSXWO/view?usp=drive_link)
+[![View Resume](https://img.shields.io/badge/%20VIEW%20RESUME-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1WBo8LmW0ahI8V6H2O2bjhs6prkAXSXWO/view?usp=drive_link)
 
 ---
 
