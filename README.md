@@ -30,3 +30,34 @@ React.js Intern @Celebal Tech || Ex- Software Intern @( Motion Cut | Devtern | M
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 🔗 About Me
+
+- 🧠 **Hardcore DSA Enthusiast & Problem-Solving Addict**  
+  Solved **5000+ problems** with **1200+ Days of Consistent Code** across all major platforms.  
+  Passionate About Crafting Efficient Code.
+
+- 👩‍💻 **Tech Explorer** – Love to learn new technologies and explore new sets of areas.
+
+- 🖐️ **Hand-Holding Expertise**: MERN, DevOps, Networking, Servers, System Design, Cost Optimization
+
+- 🎓 **Top-Rated Mentor** – Mentored **40,000+ students and professionals** over the last 1.5 years  
+  on DSA, Development, Career Growth & Remote Job Prep and Interview Preparation
+
+- 🛠️ **Open Source Contributor**
+
+- 🧑‍🏫 **Mentor on** [Topmate](https://topmate.io) and [@Propeers](https://propeers.in)
+
+- 🧱 **Building** [Prepration Street](https://preprationstreet.com)
+
+- 📞 **Book Your 1:1 Guidance** –  
+  **DSA & Development & Placement & Career Guidance**  
+  [Topmate](https://topmate.io) and [ProPeers](https://propeers.in)
+
+- ⚡ For Fun: **Games, Rosting, Mems, HipHop**
+
+---
+
+<img align="right" src="https://raw.githubusercontent.com/your-username/your-repo/main/path-to-image.png" width="300" />
