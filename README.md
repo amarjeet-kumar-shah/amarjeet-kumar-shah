@@ -33,8 +33,9 @@ React.js Intern @Celebal Tech || Ex- Software Intern @( Motion Cut | Devtern | M
 
 ---
 
-## 🔗 About Me
+## 🧃 About Me
 <img align="right" src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/500_new.gif" width="350" />
+- 🛠️ I’m currently working on Celebal Technology as an React.js Intern).
 
 - 🧠 **Hardcore DSA Enthusiast & Problem-Solving Addict**  
   Solved **1200+ problems** with **1000+ Days of Consistent Code** across all major platforms.  
@@ -43,6 +44,15 @@ React.js Intern @Celebal Tech || Ex- Software Intern @( Motion Cut | Devtern | M
 - 👩‍💻 **Tech Explorer** – Love to learn new technologies and explore new sets of areas.
 
 - 🖐️ **Hand-Holding Expertise**: MERN STACK
+  
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: My portfolio is [Amarjeet Kumar Shah](https://amarjeet-kumar-shah.github.io/Portfolio/)
+  
+- 📫 Reach me at: [email](mailto:amarjeetkumarshah.it26@gmail.com), [linkedin](https://www.linkedin.com/in/amarjeetkumarshah/)
+
+
 
 
 
