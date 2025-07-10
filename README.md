@@ -1,24 +1,16 @@
 ![My Profile Stats](assets/LeetCode1.jpg)
 ![My Profile Stats](assets/LeetCode.jpg)
 
-<h1 align="center">Hi 👋 I'm Amarjeet Kumar Shah (React.js Intern in Celebal Technology)</h1>
+<h1 align="center">Hi 👋 I'm Amarjeet Kumar Shah (React.js Intern at Celebal Technology)</h1>
 
 ---
 
-<h3 align="center">Cracked National & International 4 Remote Job As A Fresher, (4x Remote SDE) 💯</h3>
+<h3 align="center">MERN STACK DEVELOPER 💯</h3>
 
 ---
 
 <p align="center">
-  SDE 1 @proPeers | Ex-Junior SDE Intern @CloudConduction | Mentor @proPeers & @topmate.io | 
-  3.5 ⭐ LEETCODE | Max(1876) Rating Knight 👑 Top 5% 🌍 | Institute 1🥇 Rank GFG | Global 🥇 13th Rank InterviewBit |
-  Max(1854) Rating Specialist 🧸 CodeStudio Level 9 🚀 |
-  Building @DSAwithPrinceSingh | Problem Solving Enthusiast 🧠 |
-  1200DaysOfCode+ on @LeetCode | 1200DaysOfCode Streak 🔥 |
-  6⭐ Problem Solving | Amateur HackerEarth |
-  1500+ Problems Solved on DSA |
-  DSA & DEV Mentor | HardCore DSA Enthusiast 💓 |
-  75DayHardPlacementChallenge 🔥
+React Developer Intern @Celebal Tech || Ex- Software Intern @( Motion Cut || Devtern || Main Flow || Edge Flex Technology )|| 50daysofcode || Btech'26
 </p>
 
 ---
