@@ -50,11 +50,8 @@ React.js Intern @Celebal Tech || Ex- Software Intern @( Motion Cut | Devtern | M
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: My portfolio is [Amarjeet Kumar Shah](https://amarjeet-kumar-shah.github.io/Portfolio/)
   
-- 📫 Reach me at: [email](mailto:amarjeetkumarshah.it26@gmail.com), [linkedin](https://www.linkedin.com/in/amarjeetkumarshah/)
-
-
-
-
+- 📫 Reach me at: [Email](mailto:amarjeetkumarshah.it26@gmail.com), [Linkedin](https://www.linkedin.com/in/amarjeetkumarshah/)
 
 ---
+
 
