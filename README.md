@@ -60,6 +60,37 @@ React.js Intern @Celebal Tech || Ex- Software Intern @( Motion Cut | Devtern | M
 
 ---
 
+## 📚 Education
+
+- **JECRC COLLEGE, JAIPUR** (2022–2026)  
+  ◦ Bachelor of Technology - Information Technology  
+  ◦ CGPA: 7.48
+
+---
+
+## 🚀 Projects
+
+### 🔹 Service Desk Application
+- Created and implemented a responsive UI/UX interface ensuring smooth cross-device usability and intuitive navigation.
+- Built a comprehensive ticket management system allowing users to submit detailed tickets with issue description, priority
+ level, and category.
+- Enabled administrators to efficiently assign, track, and resolve tickets, with real-time updates and tracking features for
+ end users.
+- [GitHub Repository](https://github.com/amarjeet-kumar-shah/Service-Desk-Application)
+
+### 🔹  Appointment Booking System
+- Applied doctor filtering and search functionality based on specialty and availability.
+- Boosted a user-friendly UI/UX with seamless navigation and responsiveness.
+- Expanded a responsive web application using React.js, Tailwind CSS and MongoDB.
+- [GitHub Repository](https://github.com/amarjeet-kumar-shah/Appointment-Booking-System)
+
+### 🔹 MovieMind
+- Built a full-stack web application enabling users and administrators to manage movies, actors, reviews, and related content.
+- Improved a modern, responsive UI using React.js, Node.js, Express.js and MongoDB.
+- Allows admins to add actors and movies, along with trailers and posters, which are stored in Cloudinary
+- [GitHub Repository](https://github.com/amarjeet-kumar-shah/MovieMind)
+
+---
 
 ## 💼 Professional Experience :-
 
