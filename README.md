@@ -152,3 +152,13 @@ React.js Intern · Jaipur, India · Remote
 | Grafana | Prometheus |
 |---------|------------|
 | ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) | ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) |
+
+---
+
+## 📊 My GitHub Stats
+
+<p>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=amarjeet-kumar-shah&show_icons=true&theme=dark&hide_border=true" />
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarjeet-kumar-shah&layout=compact&langs_count=8&theme=dark&hide_border=true" />
+</p>
+<br clear="left" />
