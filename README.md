@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋 I'm Amarjeet Kumar Shah (React.js Intern at Celebal Technology)</h1>
 
 <h3 align="center">MERN STACK DEVELOPER 💯</h3>
-
+---
 <p align="center">
 React Developer Intern @Celebal Tech || Ex- Software Intern @( Motion Cut || Devtern || Main Flow || Edge Flex Technology )|| 50daysofcode || Btech'26
 </p>
