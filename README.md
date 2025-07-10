@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋 I'm Amarjeet Kumar Shah (React.js Intern at Celebal Technology)</h1>
 
-<h3 align="center">MERN STACK DEVELOPER 💯</h3>
+<h3 align="center">Full Stack MERN Developer | Software Developer | Competitive Coder 💯</h3>
 
 ---
 
@@ -53,6 +53,13 @@ React.js Intern @Celebal Tech || Ex- Software Intern @( Motion Cut | Devtern | M
 - 📫 Reach me at: [Email](mailto:amarjeetkumarshah.it26@gmail.com), [Linkedin](https://www.linkedin.com/in/amarjeetkumarshah/)
 
 ---
+
+## 📄 Resume
+
+[![View Resume](https://img.shields.io/badge/📄%20VIEW%20RESUME-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1WBo8LmW0ahI8V6H2O2bjhs6prkAXSXWO/view?usp=drive_link)
+
+---
+
 
 ## 💼 Professional Experience :-
 
