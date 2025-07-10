@@ -1,7 +1,7 @@
 ![My Profile Stats](assets/LeetCode1.jpg)
 ![My Profile Stats](assets/LeetCode.jpg)
 
-<h1 align="center">Hi 👋 I'm Prince Singh (SDE 1 & Tech Lead)</h1>
+<h1 align="center">Hi 👋 I'm Amarjeet Kumar Shah (React.js Intern in Celebal Technology)</h1>
 
 ---
 
