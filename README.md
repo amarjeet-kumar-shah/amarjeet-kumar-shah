@@ -61,4 +61,4 @@ React.js Intern @Celebal Tech || Ex- Software Intern @( Motion Cut | Devtern | M
 ---
 ![My leetcode Stats](assets/500_new.gif)
 
-<img align="right" src="https://raw.githubusercontent.com/your-username/your-repo/main/path-to-image.png" width="300" />
+<img align="right" src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/500_new.gif" width="300" />
