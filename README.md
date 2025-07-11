@@ -201,22 +201,5 @@ React.js Intern · Jaipur, India · Remote
   <img src="https://komarev.com/ghpvc/?username=amarjeet-kumar-shah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-## 🚀 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="180"/>
-</p>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/00e676/your-username" alt="GitHub Contributions Chart" height="180"/>
-</div>
-
-<br/>
-
-## 🎮 Dev Vibes & Workstation
-
-<div align="center">
-  <img src="https://media.giphy.com/media/YOUR_FIRST_GIF.gif" width="45%" />
-  <img src="https://media.giphy.com/media/YOUR_SECOND_GIF.gif" width="45%" />
-</div>
 
