@@ -195,13 +195,10 @@ React.js Intern · Jaipur, India · Remote
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=amarjeet-kumar-shah&theme=react-dark&hide_border=true)
 
-## ❤️ Views and Followers
+## ❤️ Views 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=amarjeet-kumar-shah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/amarjeet-kumar-shah?tab=followers">
-    <img src="https://img.shields.io/github/followers/amarjeet-kumar-shah?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
 </p>
 
 
