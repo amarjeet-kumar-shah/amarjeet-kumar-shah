@@ -202,7 +202,7 @@ React.js Intern · Jaipur, India · Remote
 </p>
 
 <p align="center">
-  <img src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/developer1.gif" height="300" width="500"/>
+  <img src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/developer1.gif" height="300" width="400"/>
   <img src="https://github.com/amarjeet-kumar-shah/amarjeet-kumar-shah/blob/main/assets/work.gif" height="400" width="400"/>
 </p>
 
