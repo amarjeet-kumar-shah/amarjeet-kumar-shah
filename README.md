@@ -101,7 +101,7 @@ React.js Intern · Jaipur, India · Remote
 
 - 🚀 **Enhanced a Service Desk Web Application with secure user authentication, registration, and login features**.
 
-- 🎥 ** Engineered backend infrastructure leveraging Node.js, Express.js, MySQL, and MongoDB, enhancing data retrieval speeds by 40% for efficient ticket tracking and management**.
+- 🎥 **Engineered backend infrastructure leveraging Node.js, Express.js, MySQL, and MongoDB, enhancing data retrieval speeds by 40% for efficient ticket tracking and management**.
 
 - 📹 **Delivered a fully functional ticketing system with role-based access control and real-time updates**.
 
@@ -115,7 +115,7 @@ React.js Intern · Jaipur, India · Remote
 
 - 🎥 **Collaborated with cross-functional design teams to refine specifications, improve UI/UX usability, and enhance component performance**.
 
-- 📹 ** Improved code quality and modularity through reusable components and modern frontend practices**.
+- 📹 **Improved code quality and modularity through reusable components and modern frontend practices**.
 
   
 ### **Devtern**
